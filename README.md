@@ -1,6 +1,6 @@
-<h1 align="center">👋 Hi, I'm CoderBoy M J H Nahid</h1>
+<h1>👋 Hi, I'm CoderBoy M J H Nahid</h1>
 
-<p align="center">🚀 Founder & CEO of <strong>CodersBoy Software</strong></p>
+<p>🚀 Founder & CEO of <strong>CodersBoy Software</strong></p>
 
 ---
 
@@ -16,8 +16,8 @@ At **CodersBoy Software**, I lead a passionate team dedicated to creating the be
 
 - 💼 [GitHub Profile](https://github.com/coderboymjhnahid)  
 - 📧 Email: [coderboymjhnahid@gmail.com](mailto:coderboymjhnahid@gmail.com)  
-- 🌐 [Portfolio Website](#) _(Coming Soon!)_  
-- 🎥 YouTube: _(Coming Soon!)_
+- 🌐 [Portfolio Website](https://codersboysoftware.com/) 
+- 🎥 YouTube: [CoderBoy M J H Nahid](https://www.youtube.com/@mjhnahid)
 
 ---
 

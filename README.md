@@ -6,7 +6,7 @@
 
 ## 🚀 About Me
 
-I started my tech journey in 2018 with a vision to revolutionize the industry by delivering creative, innovative, and impactful digital solutions. With expertise in **web design**, **development**, **graphics design**, and **digital marketing**, I am committed to empowering individuals and businesses alike.  
+I started my tech journey in 2018 with a vision to revolutionize the industry by delivering creative, innovative, and impactful digital solutions. With expertise in **web design**, **development**, **app development**, **graphics design**, and **digital marketing**, I am committed to empowering individuals and businesses alike.  
 
 At **CodersBoy Software**, I lead a passionate team dedicated to creating the best possible digital experiences. Additionally, I share my knowledge through mentorship programs and educational content to inspire the next generation of developers.
 
